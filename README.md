@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sarthak Kurothe</h1>
 <h3 align="center">Web and Application Development and Cybersecurity enthusiast</h3>
